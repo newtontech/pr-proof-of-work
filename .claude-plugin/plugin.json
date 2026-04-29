@@ -1,0 +1,10 @@
+{
+  "name": "pr-proof-of-work",
+  "description": "TDD-driven E2E workflow with real Playwright browser screenshots as PR proof. One Issue → One PR → BEFORE/AFTER visual evidence.",
+  "version": "1.0.0",
+  "author": {
+    "name": "newtontech"
+  },
+  "repository": "https://github.com/newtontech/pr-proof-of-work",
+  "license": "MIT"
+}
